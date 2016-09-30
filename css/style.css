@@ -46,7 +46,7 @@ body {
 }
 
 textarea{
-  overflow: scroll;
+  overflow: hidden;
   resize: none;
   background-color: #ffffff;
   border : none !important;
